@@ -1,4 +1,4 @@
-## console.log("Hello World");
+## console.log("Hello World"); ✨
 <div align="center">
   <a href="https://github.com/cesarfreitax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarfreitax&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
